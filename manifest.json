@@ -3,7 +3,7 @@
   "name": "YPF - Jefe estacion",
   "icons": [
     {
-      "src": "/images/logo-pwa.png",
+      "src": "%PUBLIC_URL%/images/logo-pwa.png",
       "sizes": "200x200",
       "type": "image/png"
     }
