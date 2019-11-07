@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Carlos Gonzalez",
+      "username": "fuu",
+      "password": "foo",
+      "token": "fuu",
+      "mail": "fuu@foo.com",
+      "image": "http://localhost:3004/fakeData/images/user.01.png",
+      "role": "Jefe de estación"
+    }
+  ]
+}

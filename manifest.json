@@ -1,0 +1,16 @@
+{
+  "short_name": "YPF",
+  "name": "YPF - Jefe estacion",
+  "icons": [
+    {
+      "src": "/images/logo-pwa.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "landscape"
+}

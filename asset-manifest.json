@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d799be42.chunk.css",
+    "main.js": "/static/js/main.cefd0cba.chunk.js",
+    "main.js.map": "/static/js/main.cefd0cba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20bc3803.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20bc3803.js.map",
+    "static/js/2.c57c6ce8.chunk.js": "/static/js/2.c57c6ce8.chunk.js",
+    "static/js/2.c57c6ce8.chunk.js.map": "/static/js/2.c57c6ce8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac00b7d7342b1879cc878716c4609db8.js": "/precache-manifest.ac00b7d7342b1879cc878716c4609db8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d799be42.chunk.css.map": "/static/css/main.d799be42.chunk.css.map",
+    "static/media/app.scss": "/static/media/roboto-v20-latin-regular.8681f434.svg",
+    "static/media/login.scss": "/static/media/online.5ac7797b.svg",
+    "static/media/userBox.scss": "/static/media/logout.979e5a0e.svg",
+    "static/media/totem.scss": "/static/media/notification-on.061fab1a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20bc3803.js",
+    "static/js/2.c57c6ce8.chunk.js",
+    "static/css/main.d799be42.chunk.css",
+    "static/js/main.cefd0cba.chunk.js"
+  ]
+}
